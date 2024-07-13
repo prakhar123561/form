@@ -1,0 +1,38 @@
+.button1{
+    padding: 10px 20px;
+    width: 340px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #FFCE22;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
+
+.button2{
+    padding: 10px 20px;
+    width: 340px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #FFD84D;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
+
+.button3{
+    padding: 10px 20px;
+    width: 340px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #FFCE22;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
